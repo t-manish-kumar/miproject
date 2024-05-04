@@ -1,0 +1,290 @@
+   body{
+    height: 3000px;
+    
+   }
+   #dis:hover{
+    color: red;
+    text-decoration: underline 2px solid rgb(255, 0, 0);
+   cursor: pointer;
+}
+
+   .menu{
+    width: 90vw;
+    font-size: 5em;
+    
+   }
+   .menu ul{
+    display: inline-flex;
+    list-style: none;
+    font-size: 20px;
+    word-spacing: 10px;
+    ;
+}
+#a {
+    font-size: 35px;
+    background-color: white;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#b {
+    font-size: 20px;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#phone_menu:hover{
+    color: red;
+     text-decoration: underline 2px solid rgb(255, 0, 0);
+    cursor: pointer;
+}
+#phone ul{
+    display: inline-flex;
+    list-style: none;
+margin-top: 20px;
+ width: 8vw;
+}
+#tv{
+    display: inline-flex;
+    word-spacing: 1px;
+    line-height: 30px;
+}
+#tablet{
+    display: inline-flex;
+    word-spacing: 1px;
+    line-height: 30px;
+}
+#lifestyle{
+    display: inline-flex;
+    word-spacing: 1px;
+    line-height: 33px;
+}
+
+#tv ul li{
+    list-style: none;
+    font-size: medium;
+}
+#tv_menu:hover
+{
+    color:red;
+     text-decoration: underline 2px solid rgb(255, 25, 0);
+     cursor: pointer;
+}
+#tablet_menu:hover{
+    color:rgb(246, 8, 8);
+     text-decoration: underline 2px solid rgb(245, 87, 2);
+     cursor: pointer;
+}
+#tablet li{
+      list-style: none;
+}
+#lifestyle{
+    display: inline-flex;
+}
+#lifestyle ul li{
+    list-style: none;
+    font-size: medium;
+}
+#lifestyle_menu:hover{
+    color:rgb(244, 7, 7);
+    text-decoration: underline 2px solid rgb(239, 1, 1);
+    cursor: pointer;
+}
+#carouselExampleCaptions:hover{
+    cursor: pointer;
+}
+#text{
+
+    text-align: center;
+    padding-top: 50px;
+    font-size: 10px;
+    width: 100%;
+    height: 1900px;
+    background-color: #f4f4f4
+
+}
+#img {
+   
+    transition: 1s;
+  }
+  
+  #img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  #text3
+{
+    margin-left: 150px;
+    margin-top: 150px;
+    text-align: center;
+}
+#fix{
+    font-size: 16px;
+     
+}
+#prize{
+     font-size: 16px;
+     font-weight: bold;
+     line-height: 26px;
+}
+#img1 {
+   
+    transition: 0.5s;
+  }
+  
+  #img1:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  #img2 {
+   
+    transition: 0.5s;
+  }
+  
+  #img2:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  #img3 {
+   
+    transition: 0.5s;
+  }
+  
+  #img3:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  #img4 {
+   
+    transition: 0.5s;
+  }
+  
+  #img4:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  #ab{
+    margin-top: 60px;
+    margin-left: -25px;
+    
+  }
+  #eimg1{
+         transition: 0.5s;
+         
+  }
+  #eimg1:hover{
+             transform: scale(1.05);
+             cursor: pointer;
+  }
+        
+  #eimg2{
+         transition: 0.5s;
+  }
+  #eimg2:hover{
+             transform: scale(1.05);
+             cursor: pointer;
+  }
+
+#eimg3{
+       transition: 0.5s;
+}
+#eimg3:hover{
+           transform: scale(1.05);
+           cursor: pointer;
+}
+#icon div :hover{
+  color: orange;
+  cursor: pointer;
+}
+.fluid{
+  margin-top: 0%;
+}
+#col1 ul {
+  color: white;
+}
+#col1 ul li{
+  list-style: none;
+  color:#898989;
+  line-height: 34px;
+  font-size: 14px;
+}
+#col2 ul {
+  color: white;
+  
+}
+#col2 ul li{
+  list-style: none;
+  color:#898989;
+  line-height: 34px;
+  font-size: 14px;
+}
+
+#col3 ul {
+  color: white;
+  
+}
+#col3 ul li{
+  list-style: none;
+  color:#898989;
+  line-height: 34px;
+  font-size: 14px;
+}
+#col4 ul {
+  color: white;
+  
+}
+#col4 ul li{
+  list-style: none;
+  color:#898989;
+  line-height: 34px;
+  font-size: 14px;
+}
+#col5{
+  color: white;
+  font-weight: bold;
+
+}
+#col5 ul li{
+  list-style: none;
+}
+
+#col1 ul li:hover{
+   
+  color: white;
+  text-decoration: solid 1px underline white;
+  cursor: pointer;
+}
+#col2 ul li:hover{
+   
+  color: white;
+  text-decoration: solid 1px underline white;
+  cursor: pointer;
+}
+#col3 ul li:hover{
+   
+  color: white;
+  text-decoration: solid 1px underline white;
+  cursor: pointer;
+}
+#col4 ul li:hover{
+   
+  color: white;
+  text-decoration: solid 1px underline white;
+  cursor: pointer;
+}
+#last{
+  
+  color: #898989;
+  font-size: 14px;
+  word-spacing: 5px;
+  font-weight: lighter;
+}
+.h{
+  width: 97%;
+  height: 1.5px;
+  margin-left: 15px;
+  border: none;
+  background-color: rgb(255, 255, 255);
+}
+
+
